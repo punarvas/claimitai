@@ -1,0 +1,4 @@
+{
+  "system": "You're an information extraction and document filling expert.",
+  "user": "Fill in the blanks. Find relevant fields in the source JSON to fill information in the target JSON, indicated by `___` or placeholder `<___>`. All values must be a text, not list or other format. If duplicates found, store them in duplicates section of target JSON. Information is duplicate if it exactly matches the previously found one, else extra. Use only these two document to process information. If relevant information not found, set value to NULL. Do not use filler words or characters around the JSON object. All keys must be lowercase. If cannot generate a key, use the NER class value from the source. Pay attention to the placeholders - they provide specific instructions. Source JSON: ##SOURCE##. Target JSON: ##TARGET##"
+}

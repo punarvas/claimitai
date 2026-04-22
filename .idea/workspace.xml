@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0da5fd66-8b0c-4a61-942b-e1a547f2d9c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-001/adjuster_note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-001/finance_agreement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-001/police_report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-001/settlement_breakdown.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-002/customer_reply.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-002/finance_agreement.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-002/settlement_breakdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-003/finance_agreement.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-003/police_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-003/settlement_breakdown.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-003/settlement_breakdown_v2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-004/finance_agreement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-004/police_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-004/settlement_breakdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-004/tow_receipt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-005/customer_reply.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-005/police_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-005/settlement_breakdown.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;punarvas&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jaseci-labs/take-home-ai-engineer.git&quot;,
+    &quot;accountId&quot;: &quot;27d57dbf-59e5-4ae0-ba65-0111a5408ca3&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CaSMNBoJL1wrgmQJLY0cJhjJM3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/akash/OneDrive/Documents/Jaseci",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akash\OneDrive\Documents\Jaseci\data" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cls" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="archivist" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Jaseci" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\akash\OneDrive\Documents\Jaseci\archivist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340" />
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da5fd66-8b0c-4a61-942b-e1a547f2d9c1" name="Changes" comment="" />
+      <created>1776622138546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776622138546</updated>
+      <workItem from="1776622139867" duration="11183000" />
+      <workItem from="1776633453513" duration="6055000" />
+      <workItem from="1776801707729" duration="3000" />
+      <workItem from="1776807515298" duration="10042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

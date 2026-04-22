@@ -1,0 +1,24 @@
+{
+  "input_path": ___,
+  "person_name": <car owner/insurance claimee name>,
+  "vehicle": {
+  "VIN_Number": <exactly 17 alphanumeric characters, else set 'is_VIN_valid' to False>,
+  "Make": ___,
+  "Model": ___,
+  "Year": ___},
+  "incident": {
+  "date_of_loss": <a valid date in mm/dd/yyyy format>,
+  "police_department_name": ___,
+  "incident_location": <location of incident if available>,
+  "incident_city": <city name if available>}
+  "insurance": {
+  "insurance_company": <name of the loan lending organization, if available>,
+  "insurance_payout": <a numeric value>,
+  "outstanding_load_balance": <a numeric_value>},
+  "extras": {<key-value pair of any information that is relevant to the incident, auto insurance, or simply the person involved>},
+  "duplicates": {
+  "duplicate_vin": ___,
+  "duplicate_date_of_loss": ___,
+  "duplicate_insurance_payout": ___,
+  "duplicate_outstanding_balance": ___}
+}

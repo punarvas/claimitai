@@ -1,0 +1,10 @@
+.venv
+uploads
+take-home-ai-engineer
+outputs
+data
+archivist.py
+decision_maker.py
+clerk.py
+ner.py
+specialist.py
