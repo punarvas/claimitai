@@ -1,0 +1,33 @@
+{
+  "input_path": "data\\claims\\CLM-001\\adjuster_note.png",
+  "status": null,
+  "person_name": "Sarah Mitchell",
+  "vehicle": {
+    "VIN_Number": "1HGCM82633A004352",
+    "is_VIN_valid": true,
+    "Make": "Honda",
+    "Model": "Accord EX-C",
+    "Year": 2020
+  },
+  "incident": {
+    "date_of_loss": "02/14/2026",
+    "police_department_name": "ANN ARBOR POLICE DEPARTMENT",
+    "incident_location": "Washtenaw Ave & Huron Pkwy",
+    "incident_city": "Ann Arbor"
+  },
+  "insurance": {
+    "insurance_company": "Capital One Auto Finance",
+    "insurance_payout": 18750.00,
+    "outstanding_load_balance": 22340.55
+  },
+  "extras": {
+    "claims_hotline_number": "Gave her the claims hotline number.",
+    "loan_amount": "$22k still"
+  },
+  "duplicates": {
+    "duplicate_vin": [],
+    "duplicate_date_of_loss": [],
+    "duplicate_insurance_payout": [],
+    "duplicate_outstanding_balance": []
+  }
+}

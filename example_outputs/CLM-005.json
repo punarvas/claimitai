@@ -1,0 +1,33 @@
+{
+  "input_path": "data\\claims\\CLM-005\\customer_reply.txt",
+  "person_name": "Elena Vasquez",
+  "vehicle": {
+    "VIN_Number": "1N4AL3AP8JC231504",
+    "Make": "Nissan",
+    "Model": "Altima SV",
+    "Year": "2023"
+  },
+  "incident": {
+    "date_of_loss": "03/22/2026",
+    "police_department_name": "LIVONIA POLICE DEPARTMENT",
+    "incident_location": "Plymouth Rd & Middlebelt",
+    "incident_city": "Livonia"
+  },
+  "insurance": {
+    "insurance_company": "Bank of America Auto",
+    "insurance_payout": 31500,
+    "outstanding_load_balance": 35120.75
+  },
+  "extras": {
+    "monthly_payment": "$487.33",
+    "balance_estimate": "$35,000",
+    "accident_date": "March 22nd",
+    "authorization_for_contact": "Yes"
+  },
+  "duplicates": {
+    "duplicate_vin": null,
+    "duplicate_date_of_loss": null,
+    "duplicate_insurance_payout": null,
+    "duplicate_outstanding_balance": null
+  }
+}

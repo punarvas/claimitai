@@ -1,0 +1,30 @@
+{
+  "input_path": "data\\claims\\CLM-003\\settlement_breakdown.pdf",
+  "person_name": "Priya Raghavan",
+  "vehicle": {
+    "VIN_Number": "2T1BURHE5JC034127",
+    "Make": "Toyota",
+    "Model": "Corolla LE",
+    "Year": "2021"
+  },
+  "incident": {
+    "date_of_loss": "03/05/2026",
+    "police_department_name": "DEARBORN POLICE DEPARTMENT",
+    "incident_location": "Ford Rd & Outer Dr, Dearborn, MI",
+    "incident_city": "Dearborn"
+  },
+  "insurance": {
+    "insurance_company": "Chase Auto",
+    "insurance_payout": "$24,100.00",
+    "outstanding_load_balance": "$27,650.00"
+  },
+  "extras": {
+    "gap_amount": "$3,550.00"
+  },
+  "duplicates": {
+    "duplicate_vin": "2T1BURHE5JC034127",
+    "duplicate_date_of_loss": "03/05/2026",
+    "duplicate_insurance_payout": "$24,100.00",
+    "duplicate_outstanding_balance": "$27,650.00"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "input_path": "data\\claims\\CLM-004\\police_report.png",
+  "person_name": "Marcus Thompson",
+  "vehicle": {
+    "VIN_Number": "5YJ3E1EA7K",
+    "Make": "Tesla",
+    "Model": "Model 3",
+    "Year": "2022"
+  },
+  "incident": {
+    "date_of_loss": "12/19/2025",
+    "police_department_name": "YPSILANTI POLICE DEPARTMENT",
+    "incident_location": "Ecorse Rd & I-94, Ypsilanti, MI",
+    "incident_city": "Ypsilanti"
+  },
+  "insurance": {
+    "insurance_company": "Wells Fargo Auto",
+    "insurance_payout": "TBD - pending",
+    "outstanding_load_balance": "19200.00"
+  },
+  "extras": {
+    "insurance_policy": "AUT-3347821",
+    "gap_amount": "N/A"
+  },
+  "duplicates": {
+    "duplicate_vin": "5YJ3E1EA7K",
+    "duplicate_date_of_loss": "12/19/2025",
+    "duplicate_insurance_payout": "TBD - pending",
+    "duplicate_outstanding_balance": "19200.00"
+  }
+}

@@ -1,0 +1,2 @@
+Note: The JSON files serves as a "context" or a "source of truth" for the LLM-based decision maker. While they are not the primary output of the system, they are used by the LLM internally to make a
+verdict on the case.
