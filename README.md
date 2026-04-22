@@ -27,7 +27,7 @@ A Streamlit app that evaluates insurance claim eligibility using OCR + LLM reaso
 - `app.py`: UI + LLM interaction  
 - `utils.py`: OCR, parsing, formatting
 - **Python**: 3.10.11
-
+- To run the webapp: ```streamlit run app.py```
 ---
 
 ## ⚖️ Key Decisions & Tradeoffs
