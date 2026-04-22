@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0da5fd66-8b0c-4a61-942b-e1a547f2d9c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-001/adjuster_note.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-001/finance_agreement.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/take-home-ai-engineer/claims/CLM-001/police_report.pdf" beforeDir="false" />
@@ -75,7 +76,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/akash/OneDrive/Documents/Jaseci",
@@ -144,7 +145,7 @@
       <workItem from="1776622139867" duration="11183000" />
       <workItem from="1776633453513" duration="6055000" />
       <workItem from="1776801707729" duration="3000" />
-      <workItem from="1776807515298" duration="10042000" />
+      <workItem from="1776807515298" duration="10092000" />
     </task>
     <servers />
   </component>

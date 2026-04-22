@@ -8,3 +8,5 @@ decision_maker.py
 clerk.py
 ner.py
 specialist.py
+__pycache__
+.idea
