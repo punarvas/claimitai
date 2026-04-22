@@ -1,9 +1,8 @@
 # 📄 ClaimIt.ai
 
-A Streamlit app that evaluates insurance claim eligibility using OCR + LLM reasoning over uploaded documents.
+A Streamlit app that evaluates insurance claim eligibility using OCR + LLM reasoning over uploaded documents. 
 
 ---
-
 ## 🧠 Approach & Architecture
 
 **Flow:**
@@ -26,7 +25,8 @@ A Streamlit app that evaluates insurance claim eligibility using OCR + LLM reaso
 
 **Separation:**
 - `app.py`: UI + LLM interaction  
-- `utils.py`: OCR, parsing, formatting  
+- `utils.py`: OCR, parsing, formatting
+- **Python**: 3.10.11
 
 ---
 
